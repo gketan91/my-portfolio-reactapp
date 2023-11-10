@@ -24,13 +24,13 @@ export default function Home() {
         <Typewriter
           options={{
             strings: [
-              "✋I'm Daniel Jebarson",
-              "I'm an enthusiast Full-Stack 🌐developer",
-              "I'm a 4th yr CSE 👨‍🎓 in VIT Vellore",
-              "You can 📲 me through discord or ✉️",
+              "✋I'm Ketan Gupta",
+              "I'm an enthusiast DevOps Engineer",
+              "I have a 2+ yr Expreience 👨‍🎓 in TCS",
+              "You can 📲 me through linkedin or ✉️",
             ],
-            delay: 150,
-            pauseFor: 1500,
+            delay: 50,
+            pauseFor: 1200,
             autoStart: true,
             loop: true,
             stringSplitter: stringSplitter,
